@@ -1,2 +1,4 @@
-# bussola
-Meta-repositório do projeto Bússola
+# Bússola
+*transformando dados em ações custo-efetivas*
+
+🚧 [EM CONSTRUÇÃO] 🚧
