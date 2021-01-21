@@ -1,0 +1,10 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Inova-MPRJ/bussola-backend
+	update = merge
+	branch = master
+[submodule "etl-prisional"]
+	path = etl/prisional
+	url = https://github.com/Inova-MPRJ/bussola-etl-prisional
+	update = merge
+	branch = master
