@@ -30,14 +30,14 @@ Conduzida segundo o [Fluxo de Transformação](https://www.mprj.mp.br/inova/flux
 1. Seleção de gestores e unidades prototipadores.
 1. Priorização de indicadores críticos e abertura de dados.
 1. Criação da arquitetura de coleta contínua dos dados nas unidades que prestam o serviço público.
-1. Disponibilização dos dados para a sociedade, para os gestores e para os órgãos de controle, por meio de plataforma gerencial e de painéis explicativos. 
+1. Disponibilização dos dados para a sociedade, para os gestores e para os órgãos de controle, por meio de plataforma gerencial e de painéis explicativos.
 
 Atualmente, há três *bússolas* em construção:
 
 - **Bússola _ Gestão Hospitalar**: Acompanha a prestação de serviços de saúde por unidades hospitalares - inicialmente, em dois hospitais municipais da rede de saúde de Volta Redonda (RJ). Saiba mais [aqui](https://www.mprj.mp.br/inova/gestaohospitalar).
 - **Bússola _ Baía da Guanabara**: Acompanha a execução das obras de despoluição da bacia hidrográfica da Baía da Guanabara, a partir de dois termos de ajustamento de conduta firmados entre o MPRJ, o Governo do Estado do Rio de Janeiro e a CEDAE. Saiba mais [aqui](http://www.mprj.mp.br/inova/baiaguanabara).
 - **Bússola _ Sistema Prisional**: Acompanha dados do sistema prisional do estado do Rio de Janeiro, como lotação e atendimento de necessidades básicas dos internos. Saiba mais [aqui](https://www.mprj.mp.br/inova/sistemaprisional).
-    
+
 ## Estrutura do projeto
 
 Praticamente todo o código-fonte utilizado na extração dos dados das unidades monitoradas e na construção da plataforma deve ser progressivamente disponibilizado em repositórios no [perfil do Inova_MPRJ](https://github.com/Inova-MPRJ) no GitHub. Com isso, qualquer pessoa interessada pode verificar em detalhes o funcionamento das ferramentas, realizar modificações e reutilizá-las para suas próprias finalidades, de acordo com os termos das [licenças](#licenças).
@@ -92,7 +92,7 @@ Em outras palavras, você é livre para compartilhar e adaptar qualquer material
 As licenças específicas aplicáveis dependem da natureza de cada material:
 
 - Os códigos-fonte de scripts, funções e demais trechos de código de programação são disponibilizados sob [licença Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-- Os dados fornecidos ao MPRJ (e por ele anonimizados, quando é for caso) são públicos nos termos da [Lei de Acesso à Informação](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm). Adicionalmente, os dados produzidos ou consolidados pelo Inova_MPRJ são disponibilizados sob licença [Open Data Commons Attribution 1.0](https://opendatacommons.org/licenses/by/1-0/) (ODC-By 1.0).
+- Os dados fornecidos ao MPRJ (e por ele anonimizados, quando é o caso) são públicos nos termos da [Lei de Acesso à Informação](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm). Adicionalmente, os dados produzidos ou consolidados pelo Inova_MPRJ são disponibilizados sob licença [Open Data Commons Attribution 1.0](https://opendatacommons.org/licenses/by/1-0/) (ODC-By 1.0).
 - Demais materiais criativos, como ícones, imagens e registros audiovisuais, são disponibilizados sob licença [Creative Commons Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.pt_BR) (CC-BY 4.0).
 
 Para saber a licença aplicável a um arquivo específico, consulte, nesta ordem: (1) o ícone, cabeçalho ou rodapé com a referência da licença no arquivo; (2) o arquivo de licença (arquivo `LICENSE` ou `LICENSE.md`) contido no mesmo diretório do material em questão; e (3) os arquivos de licença contidos nos diretórios imediatamente superiores, até chegar na raíz do repositório.
