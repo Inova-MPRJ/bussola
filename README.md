@@ -36,6 +36,36 @@ Atualmente, são públicos os seguintes repositórios do projeto:
 
 Além desses repositórios, o repositório **[inova-sites](https://github.com/Inova-MPRJ/inova-sites)** contém os códigos-fonte das páginas web desenvolvidas pelo Laboratório de Inovação - incluindo as páginas dos relatórios sobre as diferentes *bússolas* em andamento.
 
+## Capturas de tela
+
+O diretório [`assets/screenshots`](./assets/screenshots) contém uma série de capturas de tela retiradas do protótipo clicável da platatorma:
+
+### Página de abertura
+
+![Página de abertura](./assets/screenshots/abertura.svg)
+
+### Primeiro acesso
+
+![Tela de boas vindas ao painel gerencial](./assets/screenshots/primeira_entrada_01.svg)
+
+### Painéis selecionados pelo usuário
+
+![Tela com painéis selecionados](./assets/screenshots/painel_02.svg)
+
+### Linha do tempo
+
+![Tela com linha do tempo](./assets/screenshots/linha_tempo_02.svg)
+
+### Alertas
+
+![Tela com alertas](./assets/screenshots/alertas_01.svg)
+
+### Gestão de documentos
+
+![Tela com gestão de documentos](./assets/screenshots/documentos_01.svg)
+
+![Tela para criação de minutas](./assets/screenshots/documentos_03.png)
+
 ## Licenças
 
 Todos os materiais disponibilizados neste repositório e nos demais repositórios associados ao projeto Bússola são disponibilizados publicamente sob **licenças livres, com atribuição**.
