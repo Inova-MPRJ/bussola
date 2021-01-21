@@ -4,6 +4,20 @@
 
 Este repositório concentra as referências para os diferentes componentes da plataforma Bússola, idealizada pelo [Laboratório de Inovação do Ministério Público do Estado do Rio de Janeiro](http://www.mprj.mp.br/inova) (Inova_MPRJ).
 
+### Índice
+
+- [O que é o Bússola?](#o-que-é-o-bússola)
+- [Estrura do projeto](#estrutura-do-projeto)
+- [Capturas de tela](#capturas-de-tela)
+  - [Página de abertura](#página-de-abertura)
+  - [Primeiro acesso](#primeiro-acesso)
+  - [Painéis selecionados pelo usuário](#painéis-selecionados-pelo-usuário)
+  - [Linha do tempo](#linha-do-tempo)
+  - [Alertas](#alertas)
+  - [Gestão de documentos](#gestão-de-documentos)
+- [Licenças](#licenças)
+- [Contato e contribuições para o projeto](#contato-e-contribuições-para-o-projeto)
+
 ## O que é o Bússola?
 
 O projeto Bússola tem como objetivo promover a transparência de dados públicos e oferecer ferramentas para que gestores e órgãos de controle tomem decisões efetivas sobre políticas públicas.
@@ -38,7 +52,7 @@ Além desses repositórios, o repositório **[inova-sites](https://github.com/In
 
 ## Capturas de tela
 
-O diretório [`assets/screenshots`](./assets/screenshots) contém uma série de capturas de tela retiradas do protótipo clicável da platatorma:
+O diretório [`./assets/screenshots`](./assets/screenshots) contém uma série de capturas de tela retiradas do protótipo clicável da platatorma:
 
 ### Página de abertura
 
