@@ -47,6 +47,7 @@ Atualmente, são públicos os seguintes repositórios do projeto:
 - **Este [meta-repositório](https://github.com/Inova-MPRJ/bussola)**, que concentra as informações gerais relativas ao projeto e referências para os demais repositórios.
 - **Repositório [bussola-backend](https://github.com/Inova-MPRJ/bussola-backend)**: contém os códigos das interfaces de programação (APIs) que disponibilizam os dados para consumo pela plataforma.
 - **Repositório [bussola-etl-prisional](https://github.com/Inova-MPRJ/bussola-etl-prisional)**: contém ferramenta de linha de comando para extração, transformação e carregamento de dados de ocupação das unidades prisionais do estado do Rio de Janeiro, fornecida por meio de boletins semanais pela Secretaria de Estado da Administração Penitenciária do Rio de Janeiro (SEAP/RJ).
+- **Repositório [bússola-etl-siafe](https://github.com/Inova-MPRJ/bussola-etl-siafe)**: contém ferramenta de linha de comando para extração, transformação e carregamento de dados orçamentários e financeiros do estado do Rio de Janeiro.
 
 Além desses repositórios, o repositório **[inova-sites](https://github.com/Inova-MPRJ/inova-sites)** contém os códigos-fonte das páginas web desenvolvidas pelo Laboratório de Inovação - incluindo as páginas dos relatórios sobre as diferentes *bússolas* em andamento.
 
